@@ -44,7 +44,7 @@ This updates `data.js`.
 
 ## Deployment
 
-Deploy the directory as a static site. Ensure the build script is run prior to deployment.
+We deploy the directory as a static site after ensuring the build script is run.
 
 ---
 Maintained by Ash & Sam Solutions Kashmir.
